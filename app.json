@@ -1,0 +1,26 @@
+{
+  "name": "СДО для вагонников",
+  "displayName": "СДО для вагонников",
+  "expo": {
+    "name": "SDO dlya vagonnikov",
+    "slug": "SDO-dlya-vagonnikov",
+    "version": "1.0.2",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.dimasdo.sdodlyavagonnika",
+      "buildNumber": "1.0.2"
+    },
+    "android": {
+      "package": "com.dimasdo.sdodlyavagonnika",
+      "versionCode": 2
+    },
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#222222"
+    }
+  }
+}
